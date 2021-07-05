@@ -1,2 +1,2 @@
-# Azure-Bot-Service--EchoBot-python
+# Azure-Bot-Service--EchoBot-Node
 Sample Echo Bot in Python
